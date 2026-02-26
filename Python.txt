@@ -1,0 +1,14 @@
+The Movie Recommendation System provides intelligent movie suggestions using content-based filtering with TF-IDF and SVD dimensionality reduction. It features a modern web interface, RESTful API, and supports datasets from 2K to 1M+ movies.
+
+
+Why This Project?
+✅ Production Ready - Security hardened, optimized, well-documented
+✅ Scalable Architecture - Handles millions of movies efficiently
+✅ Modern Tech Stack - Django 5.0, Python 3.10+, advanced ML
+✅ Easy to Use - Simple installation, clear documentation
+✅ Flexible - Train your own models or use demo models
+Key Technologies
+Backend: Django 6.0, Python 3.10+
+ML/Data: scikit-learn, pandas, numpy, scipy
+Storage: Parquet (efficient data format)
+Deployment: Render, Heroku, Docker compatible
